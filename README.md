@@ -20,8 +20,10 @@ Outgoing students can submit an application for either exchange or erasmus progr
 A course which will be taken in Erasmus must be approved by Bilkent instructors. To make this job easier, students can find and upload the syllabus of a relevant course to the database and book an appointment with the appropriate course instructor. If the instructor approves the course, it is added to the database. The students can browse the database for previously approved courses. 
 #### Calendar: 
 Outgoing students can view upcoming due dates for Erasmus applications and their appointments on a calendar.
-#### Appointments: Outgoing students can book appointments with coordinators to evaluate their application process or get their curriculum approved.
-#### Course Counting: Rather than e-mail or submitting a form, outgoing students can match the courses in bilkent curriculum and the courses in their 
+#### Appointments: 
+Outgoing students can book appointments with coordinators to evaluate their application process or get their curriculum approved.
+#### Course Counting: 
+Rather than e-mail or submitting a form, outgoing students can match the courses in bilkent curriculum and the courses in their 
 ### Internal Coordinator 
 #### Applications
 See the list of students who applied to erasmus.
